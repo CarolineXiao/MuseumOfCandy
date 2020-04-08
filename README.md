@@ -1,5 +1,6 @@
 # MuseumOfCandy
 Preview here: https://carolinexiao.github.io/MuseumOfCandy/
+
 The webpage was developed with:
 - HTML
 - CSS
